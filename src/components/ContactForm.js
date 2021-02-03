@@ -7,10 +7,7 @@ export default function ContactForm() {
       </header>
       <div className="content">
         <p>
-          <strong>Auctor commodo</strong> interdum et malesuada fames ac ante
-          ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor
-          mattis sagittis.
-        </p>
+          <strong>Contact Us</strong> if you have questions about our services.</p>
         <form>
           <div className="fields">
             <div className="field half">
